@@ -203,9 +203,9 @@ D_ADD_TEST(strtrim);
 D_ADD_TEST(lstnew);
 #define	D_LSTDELONE
 D_ADD_TEST(lstdelone);
-/*#define	D_LSTDEL
+#define	D_LSTDEL
 D_ADD_TEST(lstdel);
-#define	D_LSTADD
+/*#define	D_LSTADD
 D_ADD_TEST(lstadd);
 #define	D_LSTITER
 D_ADD_TEST(lstiter);
